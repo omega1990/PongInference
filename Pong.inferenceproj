@@ -1,0 +1,6 @@
+{
+  "name": "Pong",
+  "version": 1,
+  "defaultScene": "scenes/default.inference",
+  "lastOpenScene": "scenes/default.inference"
+}
